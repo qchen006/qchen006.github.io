@@ -17,3 +17,14 @@ Please remember to clone the Next repository before using ```hexo g``` as ```hex
  - ```hexo d``` Deploy the latest blog website to this repo master branch<br>
 
 
+### MD file writing skills
+#####图片 
+```![](https://oss.navercorp.com/GWorks-Service/webtalk_docs/blob/master/webtalk-nginx/nginx-worksmobile.png) ```
+
+#####锚点 
+```Take me to [pookie](#pookie) ```
+<br>
+```### <a name="pookie"></a>Some heading ```
+
+#####普通链接 
+```Take me to [pookie](https://sdfdsadsfsadf) ```
