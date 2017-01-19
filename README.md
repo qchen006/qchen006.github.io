@@ -15,6 +15,8 @@ Please remember to clone the Next repository before using ```hexo g``` as ```hex
  - ```hexo g``` Generate the files using the .md files<br>
  - ```hexo s```  Serve the <br>
  - ```hexo d``` Deploy the latest blog website to this repo master branch<br>
+ 
+ Use ```https://qchen006.github.io/``` to see the new blog
 
 
 ### MD file writing skills
